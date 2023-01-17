@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SchoolboyKreator/hws2-master/static/css/main.7df19c55.css",
-    "main.js": "/SchoolboyKreator/hws2-master/static/js/main.8bee225c.js",
-    "static/js/787.66cb4309.chunk.js": "/SchoolboyKreator/hws2-master/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/SchoolboyKreator/hws2-master/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/SchoolboyKreator/hws2-master/index.html",
-    "main.7df19c55.css.map": "/SchoolboyKreator/hws2-master/static/css/main.7df19c55.css.map",
-    "main.8bee225c.js.map": "/SchoolboyKreator/hws2-master/static/js/main.8bee225c.js.map",
-    "787.66cb4309.chunk.js.map": "/SchoolboyKreator/hws2-master/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hws2-master/static/css/main.7df19c55.css",
+    "main.js": "/hws2-master/static/js/main.2f4c2c5b.js",
+    "static/js/787.66cb4309.chunk.js": "/hws2-master/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hws2-master/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hws2-master/index.html",
+    "main.7df19c55.css.map": "/hws2-master/static/css/main.7df19c55.css.map",
+    "main.2f4c2c5b.js.map": "/hws2-master/static/js/main.2f4c2c5b.js.map",
+    "787.66cb4309.chunk.js.map": "/hws2-master/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7df19c55.css",
-    "static/js/main.8bee225c.js"
+    "static/js/main.2f4c2c5b.js"
   ]
 }
