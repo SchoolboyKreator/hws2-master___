@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { v1 } from 'uuid'
 import s2 from '../../s1-main/App.module.css'
 import GreetingContainer from './GreetingContainer'
-
+import './stylesHW3/stylesHW3.css'
 /*
 * 1 - описать тип UserType
 * 2 - указать нужный тип в useState с users
@@ -43,7 +43,7 @@ const HW3 = () => {
         <div id={'hw3'}>
             <div className={s2.hwTitle}>Homework #3</div>
             {/*для автоматической проверки дз (не менять)*/}
-
+                <hr/>
             <div className={s2.hw}>
                 <GreetingContainer
                     users={users}
